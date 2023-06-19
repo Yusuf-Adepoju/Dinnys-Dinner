@@ -1,4 +1,4 @@
-![image](https://github.com/Yusuf-Adepoju/Dinnys-Dinner/assets/136085526/e8e249fd-3821-49d9-9327-53ac805e9281)# Case study 1 - Dinnys-Dinner
+# Case study 1 - Dinnys-Dinner
 Explanation and coding - Dinnys Diner
 Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
